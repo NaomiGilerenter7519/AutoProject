@@ -1,0 +1,168 @@
+{
+  "d508152b188cd6b0fde2c7205383cae9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "3dcca5d6505ec9e",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/14/allure/#testresult/3dcca5d6505ec9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "7193b58195ed9d58",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/13/allure/#testresult/7193b58195ed9d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "ddf869b2d82bc25a",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/12/allure/#testresult/ddf869b2d82bc25a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "841bcfd24dcd3028",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/11/allure/#testresult/841bcfd24dcd3028",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "6bb46b204db2ca9b",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/10/allure/#testresult/6bb46b204db2ca9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "181f60be51cf55d9",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/9/allure/#testresult/181f60be51cf55d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "8417fe3c225070fc",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/8/allure/#testresult/8417fe3c225070fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "718121da2d43f3b5",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/7/allure/#testresult/718121da2d43f3b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      }
+    } ]
+  },
+  "4714dc8b22a8ec9f58af3b4ac5072692" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e87786cd09959666",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/14/allure/#testresult/e87786cd09959666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "dd77e363a7bf589d",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/13/allure/#testresult/dd77e363a7bf589d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "322ac6eabc2539b9",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/12/allure/#testresult/322ac6eabc2539b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "458f681b95b9f16a",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/11/allure/#testresult/458f681b95b9f16a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "b603a2e15259c9c2",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/10/allure/#testresult/b603a2e15259c9c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "65b42a9380051dba",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/9/allure/#testresult/65b42a9380051dba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "f022944ca8e8174e",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/8/allure/#testresult/f022944ca8e8174e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "2923e3507351f569",
+      "reportUrl" : "http://localhost:9090/job/CI%20Automation/7/allure/#testresult/2923e3507351f569",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      }
+    } ]
+  }
+}

@@ -1,0 +1,57 @@
+[ {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/CI%20Automation/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4485
+  }
+} ]

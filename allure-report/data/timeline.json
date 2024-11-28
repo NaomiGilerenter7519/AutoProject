@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "COMPU_Naomi",
+    "children" : [ {
+      "name" : "8424@COMPU_Naomi.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo Image",
+        "uid" : "3dcca5d6505ec9e",
+        "parentUid" : "3ee2acb8b07968f333a7aebfb12161c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "efeldman" ]
+      }, {
+        "name" : "Verify List Roles",
+        "uid" : "e87786cd09959666",
+        "parentUid" : "3ee2acb8b07968f333a7aebfb12161c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418977415,
+          "stop" : 1616418978890,
+          "duration" : 1475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "efeldman" ]
+      } ],
+      "uid" : "3ee2acb8b07968f333a7aebfb12161c7"
+    } ],
+    "uid" : "ea2283fd2789bda711f7125690359880"
+  } ]
+}

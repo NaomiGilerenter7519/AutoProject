@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "sanity.general.General",
+    "children" : [ {
+      "name" : "test01_verifyListRoles",
+      "uid" : "e87786cd09959666",
+      "parentUid" : "369c1a40f4e8f7edcd25189f623eda2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418977415,
+        "stop" : 1616418978890,
+        "duration" : 1475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "efeldman" ]
+    }, {
+      "name" : "test06_verifyLogo",
+      "uid" : "3dcca5d6505ec9e",
+      "parentUid" : "369c1a40f4e8f7edcd25189f623eda2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "efeldman" ]
+    } ],
+    "uid" : "sanity.general.General"
+  } ]
+}

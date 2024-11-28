@@ -1,0 +1,21 @@
+[ {
+  "uid" : "3dcca5d6505ec9e",
+  "name" : "Verify Logo Image",
+  "time" : {
+    "start" : 1616418980772,
+    "stop" : 1616418981900,
+    "duration" : 1128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e87786cd09959666",
+  "name" : "Verify List Roles",
+  "time" : {
+    "start" : 1616418977415,
+    "stop" : 1616418978890,
+    "duration" : 1475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

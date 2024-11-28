@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify List Roles",
+    "uid" : "e87786cd09959666",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616418977415,
+      "stop" : 1616418978890,
+      "duration" : 1475
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "efeldman" ]
+  }, {
+    "name" : "Verify Logo Image",
+    "uid" : "3dcca5d6505ec9e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616418980772,
+      "stop" : 1616418981900,
+      "duration" : 1128
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "efeldman" ]
+  } ]
+}

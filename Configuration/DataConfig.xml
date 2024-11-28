@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+    <!--Web-->
+    <PlatformName>web</PlatformName>
+    <BrowserName>chrom</BrowserName>
+<!--    <url>http://laniis19.laniado.org.il/emr2/</url>-->
+    <url>https://lanwebapptest.laniado.org.il/emr2/#/login</url>
+    <ImageRepo>H:/Automation/AutomationProject/ImageRepository/</ImageRepo>
+
+    <!--DB-->
+    <DBUrl>jdbc:sqlserver://lansqltest;databaseName=laniado_automation</DBUrl>
+    <DBName>test</DBName>
+    <DBPassword>641153</DBPassword>
+</Environment>

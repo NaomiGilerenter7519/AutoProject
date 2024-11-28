@@ -1,0 +1,254 @@
+{
+  "uid" : "3dcca5d6505ec9e",
+  "name" : "Verify Logo Image",
+  "fullName" : "sanity.general.General.test06_verifyLogo",
+  "historyId" : "d508152b188cd6b0fde2c7205383cae9",
+  "time" : {
+    "start" : 1616418980772,
+    "stop" : 1616418981900,
+    "duration" : 1128
+  },
+  "description" : "verify logo image Using Sikuli",
+  "descriptionHtml" : "<p>verify logo image Using Sikuli</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1616418970220,
+      "stop" : 1616418977305,
+      "duration" : 7085
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "verify logo image Using Sikuli",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify Element Visually",
+      "time" : {
+        "start" : 1616418980772,
+        "stop" : 1616418981900,
+        "duration" : 1128
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "expectedElement",
+        "value" : "logo.JPG"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1616418981906,
+      "stop" : 1616418983549,
+      "duration" : 1643
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Clear Text Element",
+      "time" : {
+        "start" : 1616418983398,
+        "stop" : 1616418983479,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on WINDOWS (ccf4f86de661dd3f7e1399e38e9ac865)] -> id: user_name]"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Clear Text Element",
+      "time" : {
+        "start" : 1616418983491,
+        "stop" : 1616418983549,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on WINDOWS (ccf4f86de661dd3f7e1399e38e9ac865)] -> id: password]"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1616418983556,
+      "stop" : 1616418984241,
+      "duration" : 685
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "sanity.general.General"
+  }, {
+    "name" : "testClass",
+    "value" : "sanity.general.General"
+  }, {
+    "name" : "testMethod",
+    "value" : "test06_verifyLogo"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "sanity.general.General"
+  }, {
+    "name" : "host",
+    "value" : "COMPU_Naomi"
+  }, {
+    "name" : "thread",
+    "value" : "8424@COMPU_Naomi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "userName",
+    "value" : "efeldman"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "7193b58195ed9d58",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/13/allure/#testresult/7193b58195ed9d58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "ddf869b2d82bc25a",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/12/allure/#testresult/ddf869b2d82bc25a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "841bcfd24dcd3028",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/11/allure/#testresult/841bcfd24dcd3028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "6bb46b204db2ca9b",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/10/allure/#testresult/6bb46b204db2ca9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "181f60be51cf55d9",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/9/allure/#testresult/181f60be51cf55d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "8417fe3c225070fc",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/8/allure/#testresult/8417fe3c225070fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      }, {
+        "uid" : "718121da2d43f3b5",
+        "reportUrl" : "http://localhost:9090/job/CI%20Automation/7/allure/#testresult/718121da2d43f3b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616418980772,
+          "stop" : 1616418981900,
+          "duration" : 1128
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3dcca5d6505ec9e.json",
+  "parameterValues" : [ "efeldman" ]
+}
